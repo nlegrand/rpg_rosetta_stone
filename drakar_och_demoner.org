@@ -40,7 +40,7 @@ qui sera traduite depuis l'anglais.
 | Undvika (SMI)          | Evade (AGL)               | Éviter (AGL)               |
 | Uppträda (KAR)         | Performance (CHA)         | Représentation (CHA)       |
 | Upptäcka fara (INT)    | Awarness (INT)            | Détecter un danger (INT)   |
-| Vildmarksvana (INT)    | Bushcraft (INT)           | Bushcraft (INT)            |
+| Vildmarksvana (INT)    | Bushcraft (INT)           | Survie (INT)               |
 | Övertala (KAR)         | Persuasion (CHA)          | Persuasion (CHA)           |
 
 * Vapenfärdigheter/Weapon skills/Compétences martiales
@@ -58,3 +58,13 @@ qui sera traduite depuis l'anglais.
 | Svärd (STY)    | Swords (STR)    | Épées (FOR)     |
 | Yxa (STY)      | Axes (STR)      | Haches (FOR)    |
 
+* Tillstånd/Conditions
+
+| Svenska   | English      | Français    |
+|-----------+--------------+-------------|
+| Utmattad  | Exhausted    | Épuisé      |
+| Krasslig  | Sickly       | Souffreteux |
+| Omtöcknad | Dazed        | Étourdi     |
+| Arg       | Angry        | Coléreux    |
+| Rädd      | Scared       | Effrayé     |
+| Uppgiven  | Disheartened | Découragé   |
