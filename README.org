@@ -1,0 +1,7 @@
+I'm playing table top roleplaying games in French, but I'm using most
+of the time English or Swedish material.
+
+So, here is a mapping of common terms found in the games I play.
+
+- [[file:drakar_och_demoner.org][Drakar och Demoner/Dragonbane]] ;
+- [[file:the_one_ring.org][The One Ring/L'Anneau Unique]].

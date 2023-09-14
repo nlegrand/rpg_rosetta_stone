@@ -1,0 +1,50 @@
+#+title: The One Ring/L'Anneau Unique
+
+* Attributes/Attributs
+
+| English  | Français |
+|----------+----------|
+| Strength | Corps    |
+| Heart    | Cœur     |
+| Wits     | Esprit   |
+
+* Skills/Compétences
+
+** Strength/Corps
+
+| English   | Français   |
+|-----------+------------|
+| Awe       | Présence   |
+| Athletics | Athlétisme |
+| Awarness  | Vigilance  |
+| Hunting   | Chasse     |
+| Song      | Chant      |
+| Craft     | Artisanat  |
+| Axes      | Haches     |
+| Bows      | Arcs       |
+| Spears    | Lances     |
+| Swords    | Épée       |
+
+** Heart/Cœur
+
+| English   | Français         |
+|-----------+------------------|
+| Enhearten | Inspiration      |
+| Travel    | Voyage           |
+| Insight   | Intuition        |
+| Healing   | Soins            |
+| Courtesy  | Courtoisie       |
+| Battle    | Art de la guerre |
+| Valour    | Vaillance        |
+
+** Wits/Esprit
+
+| English  | Français      |
+|----------+---------------|
+| Persuade | Persuasion    |
+| Stealth  | Discrétion    |
+| Scan     | Inspection    |
+| Explore  | Exploration   |
+| Riddle   | Énigmes       |
+| Lore     | Connaissances |
+| Widsdom  | Sagesse       |

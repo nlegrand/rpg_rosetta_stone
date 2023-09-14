@@ -1,0 +1,60 @@
+#+title: the Rosetta stone of Drakar och Demoner/Dragonbane
+
+* Notes
+
+J'ai tendance à me baser sur la version suédoise pour traduire en
+français. Cela ne correspondra sans doute pas à la version française
+qui sera traduite depuis l'anglais.
+
+* Grundegenskaper/Attributes/Attributs
+
+| Svenska           | English            | Français           |
+|-------------------+--------------------+--------------------|
+| Styrka (STY)      | Strength (STR)     | Force (FOR)        |
+| Fysik (FYS)       | Constitution (CON) | Constitution (CON) |
+| Smidighet (SMI)   | Agility (AGL)      | Agilité (AGL)      |
+| Intelligens (INT) | Intelligence (INT) | Intelligence (INT) |
+| Psyke (PSY)       | Willpower (WIL)    | Volonté (VOL)      |
+| Karisma (KAR)     | Charisma (CHA)     | Charisme (CHA)     |
+
+
+* Färdigheter/Skills/Compétences
+
+| Svenska                | English                   | Français                   |
+|------------------------+---------------------------+----------------------------|
+| Bestiologi (INT)       | Beast lore (INT)          | Bestiologie (INT)          |
+| Bluffa (KAR)           | Bluffing (CHA)            | Baratin (CHA)              |
+| Fingerfärdighet (SMI)  | Sleight of hand (AGL)     | Tour de passe passe (AGL)  |
+| Fina dolda ting (INT)  | Spot hidden (INT)         | Trouver objet cacher (INT) |
+| Främmande språk (INT)  | Languages (INT)           | Langue étrangère (INT)     |
+| Hantverk (STY)         | Crafting (STR)            | Artisanat (FOR)            |
+| Hoppa & Klättra (SMI)  | Acrobatics (AGL)          | Sauter et grimper (AGL)    |
+| Jakt & Fiske (SMI)     | Hunting and fishing (AGL) | Chasser et pêcher (AGL)    |
+| Köpsla (KAR)           | Bartering (CHA)           | Marchander (CHA)           |
+| Läkekonst (INT)        | Healing (INT)             | Soins (INT)                |
+| Myter & Legender (INT) | Myths & Legends (INT)     | Mythes et légendes (INT)   |
+| Rida (SMI)             | Riding (AGL)              | Équitation (AGL)           |
+| Simma (SMI)            | Swimming (AGL)            | Natation (AGL)             |
+| Sjökunnighet (INT)     | Seamanship (INT)          | Navigation (INT)           |
+| Smyga (SMI)            | Stealth (AGL)             | Furtivité (AGL)            |
+| Undvika (SMI)          | Evade (AGL)               | Éviter (AGL)               |
+| Uppträda (KAR)         | Performance (CHA)         | Représentation (CHA)       |
+| Upptäcka fara (INT)    | Awarness (INT)            | Détecter un danger (INT)   |
+| Vildmarksvana (INT)    | Bushcraft (INT)           | Bushcraft (INT)            |
+| Övertala (KAR)         | Persuasion (CHA)          | Persuasion (CHA)           |
+
+* Vapenfärdigheter/Weapon skills/Compétences martiales
+
+| Svenska        | English         | Français        |
+|----------------+-----------------+-----------------|
+| Armborst (SMI) | Crossbows (AGL) | Arbalètes (AGL) |
+| Hammars (STY)  | Hammers (STR)   | Marteaux (FOR)  |
+| Kniv (SMI)     | Knives (AGL)    | Couteaux (AGL)  |
+| Pilbåge (SMI)  | Bows (AGL)      | Arcs (AGL)      |
+| Slågsmål (STY) | Brawling (STR)  | Bagarre (FOR)   |
+| Slunga (SMI)   | Slings (AGL)    | Frondes (AGL)   |
+| Spjut (STY)    | Spears (STR)    | Lances (FOR)    |
+| Stav (SMI)     | Staves (AGL)    | Bâtons (FOR)    |
+| Svärd (STY)    | Swords (STR)    | Épées (FOR)     |
+| Yxa (STY)      | Axes (STR)      | Haches (FOR)    |
+
