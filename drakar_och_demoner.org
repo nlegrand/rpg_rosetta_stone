@@ -20,28 +20,28 @@ qui sera traduite depuis l'anglais.
 
 * Färdigheter/Skills/Compétences
 
-| Svenska                | English                   | Français                   |
-|------------------------+---------------------------+----------------------------|
-| Bestiologi (INT)       | Beast lore (INT)          | Bestiologie (INT)          |
-| Bluffa (KAR)           | Bluffing (CHA)            | Baratin (CHA)              |
-| Fingerfärdighet (SMI)  | Sleight of hand (AGL)     | Tour de passe passe (AGL)  |
-| Fina dolda ting (INT)  | Spot hidden (INT)         | Trouver objet cacher (INT) |
-| Främmande språk (INT)  | Languages (INT)           | Langue étrangère (INT)     |
-| Hantverk (STY)         | Crafting (STR)            | Artisanat (FOR)            |
-| Hoppa & Klättra (SMI)  | Acrobatics (AGL)          | Sauter et grimper (AGL)    |
-| Jakt & Fiske (SMI)     | Hunting and fishing (AGL) | Chasser et pêcher (AGL)    |
-| Köpsla (KAR)           | Bartering (CHA)           | Marchander (CHA)           |
-| Läkekonst (INT)        | Healing (INT)             | Soins (INT)                |
-| Myter & Legender (INT) | Myths & Legends (INT)     | Mythes et légendes (INT)   |
-| Rida (SMI)             | Riding (AGL)              | Équitation (AGL)           |
-| Simma (SMI)            | Swimming (AGL)            | Natation (AGL)             |
-| Sjökunnighet (INT)     | Seamanship (INT)          | Navigation (INT)           |
-| Smyga (SMI)            | Stealth (AGL)             | Furtivité (AGL)            |
-| Undvika (SMI)          | Evade (AGL)               | Éviter (AGL)               |
-| Uppträda (KAR)         | Performance (CHA)         | Représentation (CHA)       |
-| Upptäcka fara (INT)    | Awarness (INT)            | Détecter un danger (INT)   |
-| Vildmarksvana (INT)    | Bushcraft (INT)           | Survie (INT)               |
-| Övertala (KAR)         | Persuasion (CHA)          | Persuasion (CHA)           |
+| Svenska                | English                   | Français                    |
+|------------------------+---------------------------+-----------------------------|
+| Bestiologi (INT)       | Beast lore (INT)          | Bestiologie (INT)           |
+| Bluffa (KAR)           | Bluffing (CHA)            | Baratin (CHA)               |
+| Fingerfärdighet (SMI)  | Sleight of hand (AGL)     | Tour de passe passe (AGL)   |
+| Fina dolda ting (INT)  | Spot hidden (INT)         | Trouver objet cacher (INT)  |
+| Främmande språk (INT)  | Languages (INT)           | Langue étrangère (INT)      |
+| Hantverk (STY)         | Crafting (STR)            | Artisanat (FOR)             |
+| Hoppa & Klättra (SMI)  | Acrobatics (AGL)          | Sauter et grimper (AGL)     |
+| Jakt & Fiske (SMI)     | Hunting and fishing (AGL) | Chasser et pêcher (AGL)     |
+| Köpsla (KAR)           | Bartering (CHA)           | Marchander (CHA)            |
+| Läkekonst (INT)        | Healing (INT)             | Soins (INT)                 |
+| Myter & Legender (INT) | Myths & Legends (INT)     | Mythes et légendes (INT)    |
+| Rida (SMI)             | Riding (AGL)              | Équitation (AGL)            |
+| Simma (SMI)            | Swimming (AGL)            | Natation (AGL)              |
+| Sjökunnighet (INT)     | Seamanship (INT)          | Navigation (INT)            |
+| Smyga (SMI)            | Stealth (AGL)             | Furtivité (AGL)             |
+| Undvika (SMI)          | Evade (AGL)               | Éviter (AGL)                |
+| Uppträda (KAR)         | Performance (CHA)         | Représentation (CHA)        |
+| Upptäcka fara (INT)    | Awarness (INT)            | Détecter un danger (INT)    |
+| Vildmarksvana (INT)    | Bushcraft (INT)           | Survie dans la nature (INT) |
+| Övertala (KAR)         | Persuasion (CHA)          | Persuasion (CHA)            |
 
 * Vapenfärdigheter/Weapon skills/Compétences martiales
 
