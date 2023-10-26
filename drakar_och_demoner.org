@@ -68,3 +68,18 @@ qui sera traduite depuis l'anglais.
 | Arg       | Angry        | Coléreux    |
 | Rädd      | Scared       | Effrayé     |
 | Uppgiven  | Disheartened | Découragé   |
+* Hjälteförmågor/Heroic Abilities/Capacités héroïques
+
+| Svenska      | English        | Français              |
+|--------------+----------------+-----------------------|
+| Blixtsnabb   | Lightning fast | Rapide comme l'éclair |
+| Bärsärk      | Berserker      | Berserk               |
+| Defensiv     | Defensive      | Défenseur             |
+| Drakdräpe    | Dragonslayer   | Tueur de dragon       |
+| Dubbelhugg   | Doubleslash    | Tranche double        |
+| Enstöring    | Lone Wolf      | Hermite               |
+| Falköga      | Eagle Eye      | Œil de Faucon         |
+| Fokuserad    | Focused        | Concentré             |
+| Följeslagare | Companion      | Familier              |
+| Förklädnad   | Disguise       | Déguisement           |
+
